@@ -1,1 +1,1 @@
-this fro leraning react
+this is for leraning react
